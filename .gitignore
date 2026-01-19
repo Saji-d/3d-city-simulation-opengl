@@ -1,0 +1,23 @@
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Executables
+*.exe
+
+# Cache files
+*.ipch
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
