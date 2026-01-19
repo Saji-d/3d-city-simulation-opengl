@@ -87,7 +87,7 @@ The simulation is fully interactive and can be controlled using the keyboard.
 ---
 
 ### 🚦 Traffic Control
-![Red Light – Cars Stopped](Screenshots/traffic-rlight-red.png)
+![Red Light – Cars Stopped](Screenshots/traffic-light-red.png)
 ![Green Light – Cars Moving](Screenshots/traffic-light-green.png)
 
 ---
@@ -124,4 +124,5 @@ The simulation is fully interactive and can be controlled using the keyboard.
 **Sajidur Rahman Sajid**  
 BSc in Computer Science & Engineering (CSE)
 Final-year undergraduate student
+
 
