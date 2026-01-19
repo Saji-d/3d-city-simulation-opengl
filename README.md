@@ -122,7 +122,5 @@ The simulation is fully interactive and can be controlled using the keyboard.
 
 ## 👤 Author
 **Sajidur Rahman Sajid**  
-BSc in Computer Science & Engineering (CSE)
+BSc in Computer Science & Engineering  
 Final-year undergraduate student
-
-
