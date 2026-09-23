@@ -1,9 +1,9 @@
-# 🌆 3D City Simulation – OpenGL Computer Graphics Project
+# 🌆 City Simulation – OpenGL Computer Graphics Project
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-A **3D city simulation** developed using **OpenGL and C++** as part of an academic **Computer Graphics course**.  
+An **animated city simulation** (2D orthographic view) developed using **OpenGL, GLUT and C++** as a 3-person team project for an academic **Computer Graphics course**.  
 The project demonstrates real-time rendering, animation, traffic logic, environmental effects, and interactive keyboard controls within a simulated urban environment.
 
 ---
@@ -15,7 +15,7 @@ The project demonstrates real-time rendering, animation, traffic logic, environm
 - Dynamic weather effects:
   - Rainfall
   - Snowfall
-- Sky, lighting, and atmosphere changes based on environment state
+- Day/night toggle that switches sky, object and headlight colours
 
 ---
 
@@ -120,7 +120,10 @@ The simulation is fully interactive and can be controlled using the keyboard.
 
 ---
 
-## 👤 Author
+## 👥 Team
+Team project (3 members): Sajidur Rahman Sajid, Sidratul Muntaha, Tasnim Firdaus Emon.
+My part: the animation features (moving vehicles, traffic lights, pedestrians, day/night, rain and snow, birds).
+
 **Sajidur Rahman Sajid**  
 BSc in Computer Science & Engineering  
 Final-year undergraduate student
