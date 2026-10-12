@@ -109,7 +109,7 @@ Keys are read in `handleKeyboard` and the mouse in `handleMouse` in `src/main.cp
 
 ## ◈ Architecture
 
-The program is one translation unit. GLUT timers advance the state variables and call `glutPostRedisplay`, and `display()` redraws every layer in order.
+The program is one translation unit. GLUT timers advance the state variables and call `glutPostRedisplay`. Then `display()` redraws every layer in order.
 
 ```mermaid
 flowchart LR
