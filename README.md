@@ -23,7 +23,6 @@
     <a href="#-architecture">Architecture</a> ·
     <a href="#-tech-stack">Tech Stack</a> ·
     <a href="#-getting-started">Getting Started</a> ·
-    <a href="#-roadmap">Roadmap</a> ·
     <a href="#-author">Author</a>
   </p>
 </div>
@@ -157,20 +156,10 @@ Library names depend on how GLUT is installed on your machine.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## ◈ Roadmap
-
-- [x] Day and night, rain and snow
-- [x] Traffic lights with stopping vehicles and a crossing pedestrian
-- [ ] Cycle the traffic light automatically instead of by key
-- [ ] Make the keys case-insensitive for speed control
-- [ ] Remove the `windows.h` dependency for Linux and macOS builds
-- [ ] Split the single source file into modules
-
-<img src="assets/divider.svg" width="100%" alt="">
-
 ## ◈ Author
 
-**Sajidur Rahman Sajid**: Full-Stack Developer and AI engineer from Dhaka. BSc in CSE at American International University-Bangladesh (AIUB).
+**Sajidur Rahman Sajid**: Full-Stack Developer and AI engineer from Dhaka.<br>
+BSc in CSE at American International University-Bangladesh (AIUB).
 
 <p>
   <a href="https://www.sajidur.me"><img src="https://img.shields.io/badge/Portfolio-0B0E1A?style=flat-square&logo=googlechrome&logoColor=9B8CFA" alt="Portfolio"></a>
