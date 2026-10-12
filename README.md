@@ -38,7 +38,7 @@ It is an **academic Computer Graphics project** by a team of three. Despite the 
 <table>
   <tr>
     <td width="50%" valign="top"><b>Team</b><br>Sajidur Rahman Sajid, Sidratul Muntaha and Tasnim Firdaus Emon.</td>
-    <td width="50%" valign="top"><b>My part</b><br>The animation work: moving vehicles, traffic lights, pedestrian, day and night, rain and snow, and birds.</td>
+    <td width="50%" valign="top"><b>My part</b><br>The animation work: moving vehicles, traffic lights, pedestrian, day and night, rain and snow and birds.</td>
   </tr>
 </table>
 
